@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{622D9677-C6CA-401C-9F48-F8600DB0876D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LCARS_KEYPAD_VB.My.MyApplication</StartupObject>
+    <RootNamespace>LCARS_KEYPAD_VB</RootNamespace>
+    <AssemblyName>LCARS_KEYPAD_VB</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LCARS_KEYPAD_VB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LCARS_KEYPAD_VB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SWF4.Designer.vb">
+      <DependentUpon>SWF4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SWF4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SWF3.Designer.vb">
+      <DependentUpon>SWF3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SWF3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SWF2.Designer.vb">
+      <DependentUpon>SWF2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SWF2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SWF1.Designer.vb">
+      <DependentUpon>SWF1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SWF1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.vb">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.vb">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.vb">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Form6.Designer.vb">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Toast.Designer.vb">
+      <DependentUpon>Toast.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Toast.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="SWF4.resx">
+      <DependentUpon>SWF4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SWF3.resx">
+      <DependentUpon>SWF3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SWF2.resx">
+      <DependentUpon>SWF2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SWF1.resx">
+      <DependentUpon>SWF1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Toast.resx">
+      <DependentUpon>Toast.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keypadbackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keypadbackground1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keypadbutton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keypadopen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keypadopen1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeingkeypad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\systemdiagnostic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bottomline.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\startback.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-but07a.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-but12a.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-start4.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thumbs.db" />
+    <None Include="Resources\yelarrow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundDefaultif not cool.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundDefaulttry.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundDefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\United_Federation_of_Planets_by_Scharfshutze.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mediaplayer1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alpha_People_hl_prev.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alpha_People_hl_next.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Newbackgroundplayer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cal17.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoThumbDefault_submenu.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FloatDlg_Disable.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alpha_grain_field_prev.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XP-Maximize.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XP-Minimize.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doorbell.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beep.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Access_Denied.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Input_Successful 1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ready for input 2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Engineering_Alert.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ready_for_input 1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Deskviewer_screen off.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Display_off.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Input_successful 2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GTJLCARS_Wallpaper1a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-but07a1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-but12a1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newbadge.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newbadge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallConfirmationWindow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-start5.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-start2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-start3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-start8.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_terminal_end_lft.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_terminal_end_rt.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accessing_DB.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\authorization_ack.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id_confirmed.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\initializing_DB.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pls_input_cmd_codes.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bottomline2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_button.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purple_button.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pink_button.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightblue_button.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pink_slice.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purple_slice.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\royalblue_slice.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow_slice.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightblue_slice.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numbers1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numbers2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numbers3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numbers4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numbers5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\numbers6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left_panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left_panel_sm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rt_panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rt_panel_sm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lft_topper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rt_topper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lft_bottom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rt_bottom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cirk_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cirk_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cirk_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cirk_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cirk_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cirk_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cirk_7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cirk_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\purplebutton.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lkhlkjh.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lightpurple_button.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library files.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flat panel.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flat panel 3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flat panel 2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flat panel 4.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

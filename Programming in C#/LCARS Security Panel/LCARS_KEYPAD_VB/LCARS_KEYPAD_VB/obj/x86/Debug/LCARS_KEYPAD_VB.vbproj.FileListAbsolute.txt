@@ -1,0 +1,215 @@
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form1.resources
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form2.resources
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Resources.resources
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form3.resources
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form4.resources
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.MDIParent1.resources
+C:\Users\Matthew Mansfield\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Toast.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form1.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form2.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form3.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form4.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.MDIParent1.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Resources.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Toast.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.exe
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.pdb
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.xml
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form1.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form2.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form3.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form4.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.MDIParent1.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Resources.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Toast.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form1.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form2.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form3.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form4.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.MDIParent1.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Resources.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Toast.resources
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Local Settings\Documents\c# files\LCARS_KEYPAD_VB_red error\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.xml
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form5.resources
+F:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+F:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+F:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form6.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form7.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form8.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form9.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.ResolveComReference.cache
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF1.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF2.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF3.resources
+C:\VR_MAIN\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF4.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.ResolveComReference.cache
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbprojResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF4.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF3.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF2.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF1.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form8.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form1.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form2.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form3.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form4.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form5.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form7.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form9.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.MDIParent1.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Resources.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form6.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Toast.resources
+C:\Users\Matthew Mansfield\Documents\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.GenerateResource.Cache
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.ResolveComReference.cache
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.exe
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.pdb
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.xml
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbprojResolveAssemblyReference.cache
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF4.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF3.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF2.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF1.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form8.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form1.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form2.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form3.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form4.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form5.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form7.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form9.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.MDIParent1.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Resources.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form6.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Toast.resources
+C:\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.GenerateResource.Cache
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.ResolveComReference.cache
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.exe
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.pdb
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.xml
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbprojResolveAssemblyReference.cache
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF4.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF3.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF2.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF1.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form8.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form1.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form2.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form3.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form4.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form5.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form7.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form9.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.MDIParent1.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Resources.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form6.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Toast.resources
+D:\TO INSTALL IN SHERRYS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.GenerateResource.Cache
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.ResolveComReference.cache
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbprojResolveAssemblyReference.cache
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF4.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF3.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF2.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.SWF1.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form8.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form1.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form2.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form3.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form4.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form5.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form7.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form9.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.MDIParent1.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Resources.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Form6.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.Toast.resources
+C:\Users\Matthew Mansfield\Desktop\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.GenerateResource.Cache
+J:\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+J:\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+J:\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.ResolveComReference.cache
+J:\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+J:\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+J:\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+\\HACKER-DESKTOP\HardDrive\128 GB Win10_Boot_Thumb\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+\\HACKER-DESKTOP\HardDrive\128 GB Win10_Boot_Thumb\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+\\HACKER-DESKTOP\HardDrive\128 GB Win10_Boot_Thumb\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.ResolveComReference.cache
+\\HACKER-DESKTOP\HardDrive\128 GB Win10_Boot_Thumb\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+\\HACKER-DESKTOP\HardDrive\128 GB Win10_Boot_Thumb\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+\\HACKER-DESKTOP\HardDrive\128 GB Win10_Boot_Thumb\SHERRY'S LCARS PANEL\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
+C:\Users\Hacker\Documents\GitHub\Technology\Programming in C#\LCARS Security Panel\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Hacker\Documents\GitHub\Technology\Programming in C#\LCARS Security Panel\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Hacker\Documents\GitHub\Technology\Programming in C#\LCARS Security Panel\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.vbproj.ResolveComReference.cache
+C:\Users\Hacker\Documents\GitHub\Technology\Programming in C#\LCARS Security Panel\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.exe
+C:\Users\Hacker\Documents\GitHub\Technology\Programming in C#\LCARS Security Panel\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.xml
+C:\Users\Hacker\Documents\GitHub\Technology\Programming in C#\LCARS Security Panel\LCARS_KEYPAD_VB\LCARS_KEYPAD_VB\obj\x86\Debug\LCARS_KEYPAD_VB.pdb
